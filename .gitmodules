@@ -1,0 +1,6 @@
+[submodule "georgian"]
+	path = georgian
+	url = https://github.com/bodleian/georgian-mss.git
+[submodule "armenian"]
+	path = armenian
+	url = https://github.com/bodleian/armenian-mss.git
